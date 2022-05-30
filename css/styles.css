@@ -57,3 +57,8 @@ body{
     min-height: 100%;
     margin: auto;
 }
+
+#carouselButton {
+	margin: auto;
+	z-index:  1;
+}

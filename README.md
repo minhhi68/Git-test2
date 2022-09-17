@@ -1,4 +1,1 @@
-# Git-test2
-Nguyễn Minh Huy
-SE161323
-Môn học FER201m (Front-End React)
+Bài này mình được 8đ nha anh em
